@@ -1,5 +1,3 @@
-## Microsservico_Autenticacao
-
 # 🏥 Microserviço de Autenticação - Sistema de Gestão Hospitalar
 
 **Componente crítico desenvolvido para sistema de gerenciamento hospitalar com arquitetura de microsserviços**
