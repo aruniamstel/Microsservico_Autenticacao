@@ -1,6 +1,6 @@
 # 🏥 Microserviço de Autenticação - Sistema de Gestão Hospitalar
 
-**Componente crítico desenvolvido para sistema de gerenciamento hospitalar com arquitetura de microsserviços**
+**Componente crítico desenvolvido por mim para um trabalho acadêmico de sistema de gerenciamento hospitalar com arquitetura de microsserviços**
 
 ## 🎯 Contexto do Projeto
 Este microsserviço foi desenvolvido como parte de um sistema hospitalar completo, responsável por:
@@ -8,6 +8,8 @@ Este microsserviço foi desenvolvido como parte de um sistema hospitalar complet
 - Gerenciamento de sessões e tokens JWT
 - Controle de acesso baseado em roles
 - Integração com outros MS do ecossistema hospitalar
+
+O projeto foi desenvolvido em equipe, tendo eu sido resposável pela implementação do Microsserviço de Autenticação.
 
 ## 🛠️ Minhas Contribuições Específicas
 - **Arquitetura completa** do MS de autenticação
